@@ -1,0 +1,7 @@
+D:\fldrfr_everth\Uch_3sem\PIOGI\PIOGI_Lab4_1\Laba4\Laba4\bin\Debug\Laba4.exe.config
+D:\fldrfr_everth\Uch_3sem\PIOGI\PIOGI_Lab4_1\Laba4\Laba4\bin\Debug\Laba4.exe
+D:\fldrfr_everth\Uch_3sem\PIOGI\PIOGI_Lab4_1\Laba4\Laba4\bin\Debug\Laba4.pdb
+D:\fldrfr_everth\Uch_3sem\PIOGI\PIOGI_Lab4_1\Laba4\Laba4\obj\Debug\Laba4.csprojAssemblyReference.cache
+D:\fldrfr_everth\Uch_3sem\PIOGI\PIOGI_Lab4_1\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+D:\fldrfr_everth\Uch_3sem\PIOGI\PIOGI_Lab4_1\Laba4\Laba4\obj\Debug\Laba4.exe
+D:\fldrfr_everth\Uch_3sem\PIOGI\PIOGI_Lab4_1\Laba4\Laba4\obj\Debug\Laba4.pdb
