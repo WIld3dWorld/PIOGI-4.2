@@ -92,7 +92,7 @@ namespace Laba4
 
             double delit(double a1, double b2)
             {
-                return 0;
+                return a1/b2;
             }
         }
     }
