@@ -82,7 +82,7 @@ namespace Laba4
 
             double minus(double a1, double b2)
             {
-                return 0;
+                return a1-b2;
             }
 
             double umnoj(double a1, double b2)
