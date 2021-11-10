@@ -87,7 +87,7 @@ namespace Laba4
 
             double umnoj(double a1, double b2)
             {
-                return 0;
+                return a1*b2;
             }
 
             double delit(double a1, double b2)
